@@ -1,0 +1,25 @@
+/* src/index.css atau App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* src/App.css */
+
+/* Tema Light */
+.bg-light {
+    background-color: white;
+    color: black;
+}
+
+/* Tema Dark */
+.bg-dark {
+    background-color: black;
+    color: white;
+}
+
+/* Tema Blue */
+.bg-blue {
+    background-color: #3b82f6;
+    color: white;
+}
